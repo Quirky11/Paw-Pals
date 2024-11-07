@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">393515306946968</string>
+    <string name="facebook_client_token">b60d8b4db9e5e9156b1bc65e589c89c2</string>
+    <string name="fb_login_protocol_scheme">fb393515306946968</string>
+    <string name="app_name">"Paw_pals"</string>
+    <string name="default_web_client_id">386723040257-dgksaoe3knfosmdi3m8os2uo7rr5uttf.apps.googleusercontent.com</string>
+</resources>
